@@ -1,0 +1,20 @@
+<!-- 
+My solution  -->
+def find_short(s)
+  x = s.split(" ").min_by(&:length)
+  l = x.length
+    return l
+end
+
+
+<!-- better solution -->
+def find_short(s)
+    l = s.split.min_by(&:length).size
+    return l
+end
+
+<!-- best solution  -->
+
+def find_short(s)
+  s.split.map(&:size).min
+end
