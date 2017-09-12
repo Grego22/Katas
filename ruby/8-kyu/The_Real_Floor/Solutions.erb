@@ -1,0 +1,21 @@
+<!-- Americans are odd people: in their buildings, the first floor is actually the ground floor and there is no 13th floor ('cause of superstition).
+
+Write a function that given an American floor (passed as an integer) returns the real floor: -->
+
+<!-- My solution -->
+def get_real_floor(n)
+  n > 13 ? n - 2 : n == 0 ? n : n < 0 ? n : n - 1
+end
+
+<!-- cool solution -->
+def get_real_floor(n)
+
+  case n
+    when 0 then 0
+    when 1 then 0
+    when 2..13 then n-1
+    when 14..10000 then n-2
+    when -10000..-1 then n
+
+  end
+end
