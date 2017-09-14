@@ -24,3 +24,8 @@ def well(x)
     'I smell a series!'
   end
 end
+
+def well(x)
+  goods = x.count('good')
+  goods > 2 ? 'I smell a series!' : goods > 0 ? 'Publish!' : 'Fail!'
+end

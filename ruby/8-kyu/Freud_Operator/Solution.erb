@@ -1,0 +1,12 @@
+<!-- My Solution -->
+
+def to_freud(sentence)
+  x = sentence.split.size
+  (["sex"] * x).join ' '
+end
+
+<!-- Clever Solution -->
+
+def to_freud(sentence)
+  sentence.gsub(/\S+/,'sex')
+end
