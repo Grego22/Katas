@@ -1,0 +1,14 @@
+<!-- My Solution -->
+def count_squares(cuts)
+    return (cuts+1)**3-(cuts-1)**3
+end
+
+
+<!-- Interesting solution -->
+def count_squares(cuts)
+    if cuts == 0
+        return 1
+    else
+        return (cuts+1)**3 - (cuts-1)**3
+    end
+end
