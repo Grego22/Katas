@@ -1,0 +1,15 @@
+<!-- Write a function that accepts two arguments and returns the remainder after dividing the larger number by the smaller number.
+Division by zero should return NaN (in C#, throw a new DivideByZeroException instead).
+Arguments will both be integers. -->
+
+def remainder(a, b)
+  b > a ? (a == 0 ? nil : b % a.abs) : (b == 0 ? nil : a % b.abs)
+end
+
+<!-- Clever solution -->
+
+def remainder(a, b)
+  ar = [a.abs, b.abs]
+  return nil if a * b == 0
+  ar.max % ar.min
+end
