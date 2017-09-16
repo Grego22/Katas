@@ -1,0 +1,13 @@
+# <!-- My Solution
+# I used the empty? function and the all? function, to get the answer -->
+
+def archers_ready(archers)
+   !archers.empty? && archers.all? {|arrows| arrows >= 5}
+   end
+
+  #  <!-- Other Solution -->
+
+def archers_ready(archers)
+  return false if archers.empty?
+  archers.all? { |a| a > 4 }
+end
