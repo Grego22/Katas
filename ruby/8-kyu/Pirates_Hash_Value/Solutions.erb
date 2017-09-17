@@ -16,8 +16,18 @@
 #
 # When you check if they are ready their answers are in a dictionary and will either be: aye or nay
 
+# Reworked Solution
 
-# Clever Solutions
+def cannons_ready(gunners)
+  gunners.map do |x, y|
+  if y == "nay"
+ then  return 'Shiver me timbers!'
+  end
+  end
+  return "Fire!"
+end
+
+# My original Solution 
 def cannons_ready(gunners)
   gunners.has_value?('nay') ? 'Shiver me timbers!' : 'Fire!'
 end
