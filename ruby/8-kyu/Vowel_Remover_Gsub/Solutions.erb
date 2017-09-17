@@ -1,0 +1,15 @@
+# My Solution
+
+def shortcut(s)
+  s.gsub(/[aeiou]/,'')
+end
+
+# Clever Solutions
+
+def shortcut(s)
+  s.delete('aieou')
+end
+
+def shortcut(s)
+  s.gsub(/[aeiou]+/, "")
+end
