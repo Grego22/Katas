@@ -27,7 +27,7 @@ def cannons_ready(gunners)
   return "Fire!"
 end
 
-# My original Solution 
+# My original Solution
 def cannons_ready(gunners)
   gunners.has_value?('nay') ? 'Shiver me timbers!' : 'Fire!'
 end
@@ -50,4 +50,16 @@ def cannons_ready(gunners)
   gunners.each do |k,v| if v == 'nay' then return 'Shiver me timbers!' end
   end
   return 'Fire!'
+end
+
+# Ask Gavin
+def cannons_ready(gunners)
+  gunners.each do |x, y|
+    if y == 'nay'
+      return 'Shiver me timbers!'
+    end
+  end
+
+  return 'Fire!'
+
 end
