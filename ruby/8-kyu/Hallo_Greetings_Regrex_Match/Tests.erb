@@ -1,0 +1,12 @@
+Test.describe("Basic tests") do
+Test.assert_equals(validate_hello('hello'), true)
+Test.assert_equals(validate_hello('ciao bella!'), true)
+Test.assert_equals(validate_hello('salut'), true)
+Test.assert_equals(validate_hello('hallo, salut'), true)
+Test.assert_equals(validate_hello('hombre! Hola!'), true)
+Test.assert_equals(validate_hello('Hallo, wie geht\'s dir?'), true)
+Test.assert_equals(validate_hello('AHOJ!'), true)
+Test.assert_equals(validate_hello('czesc'), true)
+Test.assert_equals(validate_hello('meh'), false)
+Test.assert_equals(validate_hello('Ahoj'), true)
+end
