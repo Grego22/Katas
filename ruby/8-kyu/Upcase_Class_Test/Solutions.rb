@@ -1,4 +1,4 @@
-<!-- Is the string uppercase?
+# Is the string uppercase?
 
 Task
 
@@ -11,10 +11,16 @@ class String
 end
 
 
-<!-- Interesting Solution -->
+# Interesting Solutions
 
 class String
   def is_upcase?
     self.index(/[a-z]/).nil?
+  end
+end
+
+class String
+  def is_upcase?
+     self.include?self.upcase
   end
 end
