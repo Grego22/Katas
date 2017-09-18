@@ -32,6 +32,8 @@ def cannons_ready(gunners)
   gunners.has_value?('nay') ? 'Shiver me timbers!' : 'Fire!'
 end
 
+# Other solutions 
+
 def cannons_ready(gunners)
   gunners.map { |y,x| x == 'aye' }.all? { |x| x == true } ? 'Fire!' : 'Shiver me timbers!'
 end
