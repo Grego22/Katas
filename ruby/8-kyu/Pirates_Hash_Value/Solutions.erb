@@ -63,3 +63,7 @@ def cannons_ready(gunners)
   return 'Fire!'
 
 end
+
+# Gavin Solution
+
+ gunners.any? { |name, status| status == 'nay' } ? "Shiver me timbers!" : "Fire!"
