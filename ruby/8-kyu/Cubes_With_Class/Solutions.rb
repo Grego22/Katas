@@ -26,3 +26,18 @@ class Cube
   end
 
 end
+
+
+class Cube
+  def set_side(side)
+    @side = side
+  end
+
+  def get_side
+    if @side == nil
+      0
+    else
+      @side
+    end
+  end
+end
