@@ -1,0 +1,5 @@
+Test.assert_equals(insert_dash(454793),'4547-9-3')
+Test.assert_equals(insert_dash(123456),'123456')
+Test.assert_equals(insert_dash(1003567),'1003-567')
+Test.assert_equals(insert_dash(24680),'24680')
+Test.assert_equals(insert_dash(13579),'1-3-5-7-9')
