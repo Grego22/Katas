@@ -18,5 +18,5 @@ end
 
 
 def diagonalSum(matrix)
-(0...matrix.size).inject(0) {|sum, i| sum + matrix[i][i]}
+  (0...matrix.size).inject(0) {|sum, i| sum + matrix[i][i]}
 end
