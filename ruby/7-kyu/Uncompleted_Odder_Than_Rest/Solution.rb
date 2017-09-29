@@ -5,5 +5,13 @@ def oddOne(arr)
   arr.any?(&:odd?) ? arr.index &:odd? : -1
 end
 
-#   arr.index &:odd?
-# end
+#final solution
+def oddOne(arr)
+  arr.any?(&:odd?) ? arr.index {|num| num.odd?} : -1
+end
+
+# other solutions (gavin)
+
+def oddOne(arr)
+  arr.find_index(&:odd?) || -1
+end
