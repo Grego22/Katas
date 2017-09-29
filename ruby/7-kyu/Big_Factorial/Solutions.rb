@@ -5,7 +5,6 @@ def factorial(n)
 end
 
 
-
 # Other solutions
 
 def factorial(n)
