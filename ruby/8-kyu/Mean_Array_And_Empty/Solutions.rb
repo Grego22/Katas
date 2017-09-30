@@ -4,6 +4,7 @@ def find_average(nums)
   nums.empty? ? 0 :  nums.reduce(:+).to_f / nums.size.to_f
 end
 
+
 # Clever solutions
 def find_average(nums)
   nums.inject(:+) / nums.length.to_f rescue 0
