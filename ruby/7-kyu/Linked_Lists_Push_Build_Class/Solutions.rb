@@ -1,3 +1,5 @@
+# http://www.codewars.com/kata/linked-lists-push-and-buildonetwothree/train/ruby
+
 # Basic solution
 
 class Node
