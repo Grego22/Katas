@@ -1,6 +1,5 @@
 # my solution
 def squareSum(numbers)
-  numbers.map {|n| (n*n)}.inject(:+)
 end
 
 problem? ?
