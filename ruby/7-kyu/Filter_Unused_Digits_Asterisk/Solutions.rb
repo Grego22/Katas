@@ -16,3 +16,9 @@ end
 def unused_digits(*digits)
   "0123456789".tr(digits.join,'')
 end
+
+def unused_digits(*input)
+"0123456789".delete(input.to_s)
+end
+
+# lookup issue struggle further work
