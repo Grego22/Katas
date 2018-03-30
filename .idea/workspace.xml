@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7172a6a-4d11-4aa7-a782-bdbb2eb4ebb0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Tests.rb" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ruby/8-kyu/You_only_need_one_Compare_Arrays/Solutions.rb" afterPath="$PROJECT_DIR$/ruby/8-kyu/You_only_need_one_Compare_Arrays/Solutions.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Solutions.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Int_Layout.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ruby/8-kyu/Codeshare_ML/Int_Layout.rb">
+      <file leaf-file-name="Solutions.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Solutions.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="60">
+              <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -46,6 +44,7 @@
         <option value="$PROJECT_DIR$/ruby/8-kyu/You_only_need_one_Compare_Arrays/Tests.rb" />
         <option value="$PROJECT_DIR$/ruby/8-kyu/You_only_need_one_Compare_Arrays/Solutions.rb" />
         <option value="$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Tests.rb" />
+        <option value="$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Solutions.rb" />
       </list>
     </option>
   </component>
@@ -104,6 +103,13 @@
               <item name="Code_Wars" type="462c0819:PsiDirectoryNode" />
               <item name="ruby" type="462c0819:PsiDirectoryNode" />
               <item name="8-kyu" type="462c0819:PsiDirectoryNode" />
+              <item name="Count_odd_Numbers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code_Wars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code_Wars" type="462c0819:PsiDirectoryNode" />
+              <item name="ruby" type="462c0819:PsiDirectoryNode" />
+              <item name="8-kyu" type="462c0819:PsiDirectoryNode" />
               <item name="Wall_Pay_to_Array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -150,12 +156,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522076505678</updated>
-      <workItem from="1522076507021" duration="2895000" />
+      <workItem from="1522076507021" duration="3531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2895000" />
+    <option name="totallyTimeSpent" value="3531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="186" y="23" width="1494" height="950" extended-state="0" />
@@ -292,6 +298,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Solutions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
           <folding />
         </state>
       </provider>
