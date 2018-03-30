@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7172a6a-4d11-4aa7-a782-bdbb2eb4ebb0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Solutions.rb" />
+      <change beforePath="$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Solutions.rb" afterPath="$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Solutions.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Solutions.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solutions.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Solutions.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <state relative-caret-position="135">
+              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tests.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Tests.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -156,12 +166,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522076505678</updated>
-      <workItem from="1522076507021" duration="3531000" />
+      <workItem from="1522076507021" duration="3752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3531000" />
+    <option name="totallyTimeSpent" value="3752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="186" y="23" width="1494" height="950" extended-state="0" />
@@ -270,14 +280,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Tests.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ruby/8-kyu/You_only_need_one_Compare_Arrays/Tests.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -304,8 +306,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Solutions.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/8-kyu/Count_odd_Numbers/Tests.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>
