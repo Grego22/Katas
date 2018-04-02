@@ -20,3 +20,5 @@ def check_exam(arr1,arr2)
   end
   result = result > 0 ? result : 0
 end
+
+eachwithindex
