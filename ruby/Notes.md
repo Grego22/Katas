@@ -5,3 +5,5 @@ Each with Index enumerable
 Good Rails (Class) Review
 - 8kyu Kata
 - Classy Classes 
+- Color Ghosts
+- Object Oriented Piracy
