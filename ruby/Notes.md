@@ -8,3 +8,8 @@ Good Rails (Class) Review
 - Color Ghosts
 - Object Oriented Piracy
 - Playing with Cubes II
+
+
+Chars method
+- 7kyu Kata
+- Ordered Count of Characters
