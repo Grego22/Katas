@@ -7,3 +7,4 @@ Good Rails (Class) Review
 - Classy Classes 
 - Color Ghosts
 - Object Oriented Piracy
+- Playing with Cubes II
