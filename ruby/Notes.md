@@ -22,3 +22,8 @@ Enumerable Reference
 Alphabetize using Scan
 - 7kyu Kata
 -- Two to One
+
+
+Case Statements
+- 8kyu Kata
+- Thinkful Logic Drills: Traffic Lights
