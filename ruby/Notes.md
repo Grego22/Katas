@@ -13,3 +13,8 @@ Good Rails (Class) Review
 Chars method
 - 7kyu Kata
 - Ordered Count of Characters
+
+
+
+Enumerable Reference
+.uniq = remove duplicates from an array. 
