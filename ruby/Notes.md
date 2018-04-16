@@ -18,3 +18,7 @@ Chars method
 
 Enumerable Reference
 .uniq = remove duplicates from an array. 
+
+Alphabetize using Scan
+- 7kyu Kata
+-- Two to One
