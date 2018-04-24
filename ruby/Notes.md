@@ -27,3 +27,7 @@ Alphabetize using Scan
 Case Statements
 - 8kyu Kata
 - Thinkful Logic Drills: Traffic Lights
+
+Prime Numbers
+-7kyu Kata
+- Odd and Prime
