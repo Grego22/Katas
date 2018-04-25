@@ -1,0 +1,6 @@
+Test.assert_equals(alphabetic('asd'), false)
+Test.assert_equals(alphabetic('codewars'), false)
+Test.assert_equals(alphabetic('door'), true)
+Test.assert_equals(alphabetic('cell'), true)
+Test.assert_equals(alphabetic('z'), true)
+Test.assert_equals(alphabetic(''), true)
