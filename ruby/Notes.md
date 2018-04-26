@@ -31,3 +31,7 @@ Case Statements
 Prime Numbers
 -7kyu Kata
 - Odd and Prime
+
+GSUB 
+-7Kyu Kata
+- The ladies of ENIAC
