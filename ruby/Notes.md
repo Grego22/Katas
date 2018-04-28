@@ -8,6 +8,8 @@ Good Rails (Class) Review
 - Color Ghosts
 - Object Oriented Piracy
 - Playing with Cubes II
+-7Kyu Kata
+- Refactored Greeting
 
 
 Chars method
@@ -35,3 +37,4 @@ Prime Numbers
 GSUB 
 -7Kyu Kata
 - The ladies of ENIAC
+
