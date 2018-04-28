@@ -5,5 +5,5 @@ end
 
 updated working solution
 def goto(level, button)
-  level < 4 && level.instance_of?(Integer) && button.instance_of?(String)  ?  button.to_i - level : 0
+  level && button.to_i < 4 && level.instance_of?(Integer) && button.instance_of?(String)  ?  button.to_i - level : 0
 end
