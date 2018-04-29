@@ -38,3 +38,8 @@ GSUB
 -7Kyu Kata
 - The ladies of ENIAC
 
+Hashes
+-7kyu Kata
+- Split the Bill
+
+
