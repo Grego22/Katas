@@ -25,7 +25,9 @@ Alphabetize using Scan
 - 7kyu Kata
 -- Two to One
 
-
+SCAN
+-8kyu Kata
+- Get number from string
 Case Statements
 - 8kyu Kata
 - Thinkful Logic Drills: Traffic Lights
@@ -35,6 +37,8 @@ Prime Numbers
 - Odd and Prime
 
 GSUB 
+-8kyu Kata
+- Get Number from String
 -7Kyu Kata
 - The ladies of ENIAC
 
