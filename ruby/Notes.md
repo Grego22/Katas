@@ -15,6 +15,7 @@ Good Rails (Class) Review
 Chars method
 - 7kyu Kata
 - Ordered Count of Characters
+- Descending Order
 
 
 
