@@ -17,6 +17,10 @@ Chars method
 - Ordered Count of Characters
 - Descending Order
 
+Square Root
+-8kyu kata
+-To square or not....
+
 
 
 Enumerable Reference
