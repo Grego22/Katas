@@ -20,6 +20,7 @@ Chars method
 Square Root
 -8kyu kata
 -To square or not....
+(x**0.5)%1==0 
 
 
 
