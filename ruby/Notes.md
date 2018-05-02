@@ -59,4 +59,11 @@ Dates/Step
 -7kyu Kata
 -See You next Happy Year
 
+Select Enum
+-Other K
+-Remove String from Number Array
 
+
+reject - create a new array without elements that don't match and return the new array
+delete_if - delete elements that don't match from current array and return the array
+reject! - delete elements that don't match from current array. Return the array if something was rejected, or nil when none.
