@@ -22,7 +22,8 @@ Square Root
 -To square or not....
 (x**0.5)%1==0 
 
-
+Add_Up
+-Other Kata
 
 Enumerable Reference
 .uniq = remove duplicates from an array. 
@@ -53,5 +54,9 @@ Hashes
 -7kyu Kata
 - Split the Bill
 -Simple Fun Missing Values
+
+Dates/Step
+-7kyu Kata
+-See You next Happy Year
 
 
