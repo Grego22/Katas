@@ -19,4 +19,4 @@ def double_char(str)
     new_str.push(letter)
   end
   return new_str.join
-end
+end)
