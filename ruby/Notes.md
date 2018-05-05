@@ -63,6 +63,14 @@ Select Enum
 -Other K
 -Remove String from Number Array
 
+Capitalize
+-Other Kata
+ = Alternating Caps
+ 
+ Regex
+- Other Kata
+- Pin Validation
+
 
 reject - create a new array without elements that don't match and return the new array
 delete_if - delete elements that don't match from current array and return the array
