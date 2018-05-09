@@ -8,6 +8,7 @@ Good Rails (Class) Review
 - Color Ghosts
 - Object Oriented Piracy
 - Playing with Cubes II
+- Finish Number Guessing Game
 -7Kyu Kata
 - Refactored Greeting
 
@@ -50,6 +51,9 @@ GSUB
 - The ladies of ENIAC
 -Disemvowel Trolls
 
+Other Kata
+-PalinDrome Check
+
 Hashes
 -7kyu Kata
 - Split the Bill
@@ -70,6 +74,9 @@ Capitalize
  Regex
 - Other Kata
 - Pin Validation
+
+  Mean
+-Mean Of An Array
 
 
 reject - create a new array without elements that don't match and return the new array
