@@ -17,6 +17,7 @@ Chars method
 - 7kyu Kata
 - Ordered Count of Characters
 - Descending Order
+-Bumps in the Road (Frequency of Characters)
 
 Square Root
 -8kyu kata
