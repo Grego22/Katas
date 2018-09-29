@@ -19,3 +19,12 @@ class Kata {
         return stringBuilder.toString();
     }
 }
+
+class Kata {
+    public static String countingSheep(int num) {
+       String a ="";
+       for (int i = 1; i<=num; i++){
+         a = a + a.valueOf(i) + " sheep...";}
+      return a;
+    }
+  }
